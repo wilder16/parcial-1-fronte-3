@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>Elige un color</h1>
-      <form>{/* aqui deberias escribir tu codigo */}</form>
+      <form>{/* aqui deberias escribir tu codigo*/}</form>
     </div>
   );
 }
