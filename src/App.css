@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: rgb(209, 223, 237);
+    width: 300px;
+
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: rgb(70, 54, 250);
+}
+
+.error {
+    font-size: 0.7rem;
+    color: red;
+    margin-top: 15px;
+  }
